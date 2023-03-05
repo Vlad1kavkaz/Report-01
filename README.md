@@ -1,8 +1,8 @@
 # Report-01
 ##first lab timp
-'''
+"""
 $ wget https://sourceforge.net/projects/boost/files/boost/1.69.0/boost_1_69_0.tar.gz
-'''
+"""
 ![first sqreen](https://user-images.githubusercontent.com/112761204/222981280-828ef8a1-7b10-4666-a69a-b7c23c6b8c46.png)
 
 '''
